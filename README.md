@@ -1,5 +1,3 @@
-
-```markdown
 # Job Scheduling System
 
 This is a robust and scalable job scheduling system implemented using Node.js, Express.js, and Docker. It provides functionality for scheduling, managing, and monitoring various types of tasks, including one-time and recurring jobs. Users can submit, view, update, and delete jobs, with built-in error handling, logging, and monitoring features.
@@ -122,11 +120,3 @@ You can customize application configuration in the `config/` directory, includin
 ## Logging and Monitoring
 
 The application maintains detailed logs of job executions. For monitoring, you can set up additional tools like Grafana and Prometheus to monitor system health and job statuses.
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-In this updated README, I added sections for API endpoints and the database structure to provide more comprehensive documentation for your project.
