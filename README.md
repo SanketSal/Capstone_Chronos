@@ -14,8 +14,6 @@ This is a robust and scalable job scheduling system implemented using Node.js, E
 - [Database Structure](#database-structure)
 - [Configuration](#configuration)
 - [Logging and Monitoring](#logging-and-monitoring)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
